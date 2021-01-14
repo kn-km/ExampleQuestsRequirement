@@ -1,0 +1,4 @@
+name: ExampleQuestsRequirement
+version: ${project.version}
+main: me.knkm.examplequestsrequirement.ExampleQuestsRequirement
+api-version: 1.16
